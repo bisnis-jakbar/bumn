@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Host: https://bisnis-jakbar.github.io/bumn/
+Sitemap: https://bisnis-jakbar.github.io/bumn/sitemap.xml
